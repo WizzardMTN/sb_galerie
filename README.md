@@ -6,3 +6,5 @@ Easy Setup: Quickly configure and deploy the script using the Config.lua.
 Responsive Design: Automatically adjusts to different screen sizes and orientations.
 
 Basic HTML/CSS/JavaScript knowledge for customization (optional)
+
+Fell free to work on the Script so its fits perfect in your Project
