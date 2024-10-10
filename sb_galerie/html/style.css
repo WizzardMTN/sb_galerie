@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+}
+
+#artwork-container {
+    display: none;
+    position: relative;
+}
+
+#artwork {
+    max-width: 80vw;
+    max-height: 80vh;
+}
+
+#close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 5px 10px;
+    background-color: #f44336;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
